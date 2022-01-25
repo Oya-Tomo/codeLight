@@ -1,0 +1,5 @@
+x64/
+.vs/
+codeLight.vcxproj
+codeLight.vcxproj.filters
+codeLight.vcxproj.user
