@@ -1,5 +1,6 @@
 x64/
 .vs/
+codeLight.sln
 codeLight.vcxproj
 codeLight.vcxproj.filters
 codeLight.vcxproj.user
